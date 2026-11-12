@@ -1,0 +1,24 @@
+
+{
+  "name": "ORÁCULO",
+  "short_name": "ORÁCULO",
+  "description": "Central de pesquisa e investigação com inteligência artificial.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080e13",
+  "theme_color": "#00d9e8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
